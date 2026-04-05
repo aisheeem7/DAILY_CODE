@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class 2darrays{
 
     public static List<Integer> diag(int[][] mat) {
